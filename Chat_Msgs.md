@@ -3,9 +3,10 @@
 * [Waiting Room](#waiting-room)
 * [YouTube Live](#youtube-live)
 * [Kintone Developer Forum](#kintone-developer-forum)
+* [Meetup - Join for future events 🗓️](#meetup---join-for-future-events-️)
 * [YouTube Channel](#youtube-channel)
 * [Looking for the Kintone Subdomain Email? ✉️](#looking-for-the-kintone-subdomain-email-️)
-* [Quick Check-in](#quick-check-in)
+* [Got Questions?](#got-questions)
 * [Survey](#survey)
 * [Log into Kintone Subdomain?](#log-into-kintone-subdomain)
 
@@ -14,7 +15,7 @@
 ## Waiting Room
 =   =   =   =   =   =   =   =   =   =
 
-Hello everyone, the workshop will start real soon!
+Welcome to the workshop!
 
 🚀 Have your Kintone Subdomain ready!
 If you have not already, sign up for the FREE Kintone Developer License:
@@ -53,6 +54,9 @@ If you have questions afterwards, post them at our Kintone Developer Community �
 
 https://forum.kintone.dev/
 
+## Meetup - Join for future events 🗓️
+https://bit.ly/KDP_Events
+
 ## YouTube Channel
 Subscribe so you get notified with the workshop recording gets uploaded! 🔔
 
@@ -72,13 +76,9 @@ The email will be from developer@kintone.com
 =   =   =   =   =   =   =   =   =   =
 =   =   =   =   =   =   =   =   =   =
 
-## Quick Check-in
+## Got Questions?
 
-Thank you for all those who DM me with questions
-
-Looks like everyone figured out where you need to go.
-
-If you are still stuck, please let me know ~
+Post in the chat or DM me directly if you have any questions!
 
 =   =   =   =   =   =   =   =   =   =
 =   =   =   =   =   =   =   =   =   =
